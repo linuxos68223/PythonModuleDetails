@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = FileManager
+title = ModuleDetailsViewer
 
 # (str) Package name
-package.name = filemanager
+package.name = moduledetailsviewer
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = com.islamiccyber.network
@@ -450,6 +450,7 @@ warn_on_root = 1
 #    Then, invoke the command line with the "demo" profile:
 #
 #buildozer --profile demo android debug
+
 
 
 
